@@ -11,7 +11,7 @@ A basic boilerplate for making a new bare bones web application.
 
 ## How To Use
 
-1. In the project directory: `git@github.com:skcin7/basic_web_application_boilerplate.git`
+1. In the project directory: `git clone git@github.com:skcin7/basic_web_application_boilerplate.git .`
 2. `npm install`
 3. Remove references to this boilerplate git repository: `rm -rf .git`
 4. Initialize a new git repository for the new project: `git init .` (optional)

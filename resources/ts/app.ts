@@ -1,8 +1,12 @@
-const Application = require('./components/Application');
+// const Application = require('./components/Application');
+import {Application} from './components/Application';
+
 
 // Instantiate Application:
 let application = new Application()
 application.init();
+
+console.log('app.js (compiled from TypeScript) is loading properly.');
 
 
 // let VgdbWebApp = new Application();

@@ -6,7 +6,7 @@
 // class BaseComponent implements ComponentInterface {
 export class Component {
     constructor() {
-
+        //
     }
 
     // init(component_name) {

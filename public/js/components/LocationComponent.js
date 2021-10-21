@@ -1,6 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.LocationComponent = void 0;
 class LocationComponent {
     constructor() {
         this.component_name = "Location";
@@ -12,5 +10,4 @@ class LocationComponent {
         return this;
     }
 }
-exports.LocationComponent = LocationComponent;
 //# sourceMappingURL=LocationComponent.js.map

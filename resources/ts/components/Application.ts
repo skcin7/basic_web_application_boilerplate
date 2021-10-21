@@ -17,6 +17,7 @@ export class Application extends Component {
 
     constructor() {
         super();
+        console.log('Created a new ' + this.constructor.name);
 
         // super.component_name = "Application";
         // super.component_name = this.component_name;

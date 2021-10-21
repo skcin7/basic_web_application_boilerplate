@@ -7,7 +7,6 @@ class Application extends Component_1.Component {
         super();
         this.name = 'VGDB';
         this.baseUrl = '/';
-        console.log('Created a new ' + this.constructor.name);
     }
     setConfigs(configs) {
         for (const config in configs) {
